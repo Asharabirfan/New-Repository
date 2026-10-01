@@ -1,2 +1,4 @@
 Git is king of confusing but I think i'll get the hang of it eventually as I practice more
 Well I think this is the end for now. TILL WE MEET AGAIN
+Summary: 
+This lab covered git basics: init, add, commit, branching, and pushing to GitHub.
